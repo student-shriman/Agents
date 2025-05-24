@@ -1,0 +1,32 @@
+# Core AI and Machine Learning
+openai==1.82.0
+openai-agents==0.0.16
+google-adk==1.0.0
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+langchain-openai==0.3.18
+langgraph==0.4.7
+langgraph-sdk==0.1.70
+
+# Vector Stores and Embeddings
+faiss-cpu==1.11.0
+sentence-transformers==4.1.0
+
+# Data Processing
+numpy==2.2.6
+pandas==2.2.3
+
+# Jupyter Environment
+jupyter==1.1.1
+ipython==9.2.0
+notebook==7.4.2
+
+# API and Web
+fastapi==0.115.12
+uvicorn==0.34.2
+
+# Utilities
+python-dotenv==1.1.0
+pydantic==2.11.5
+tqdm==4.67.1
